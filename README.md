@@ -5,5 +5,5 @@
 **Discord:** https://discord.gg/tUJsJgX
 
 
-*Official Rehost of OTC*
-*Updating every CS:GO Update*
+Official Rehost of OTC
+Updating every CS:GO Update
