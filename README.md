@@ -1,6 +1,11 @@
-**Latest Release:**
+# Onetap Crack ![](https://img.shields.io/badge/CSGO-WINDOWS-green)
+
+# Latest Release:
 * 21/06/2020 / https://github.com/vetid/otc/releases
 
-Official Rehost of OTC, Updating Every CS:GO Update
+# Support:
+This [release](https://github.com/vetid/otc/releases "Release") of OTC will be updated every time that CSGO updates.
 
 **Discord:** https://discord.gg/tUJsJgX
+
+This repository is a repost of [0x000cb](https://github.com/0x000cb "0x000cb") OTC project.
