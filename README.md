@@ -1,6 +1,6 @@
-![](https://img.shields.io/badge/CSGO-WINDOWS-green)
+# 🔮 OTC ![](https://img.shields.io/badge/CSGO-WINDOWS-green)
 
-# Latest Release:
+# Download / Latest Release:
 * 21/06/2020 / https://github.com/vetid/otc/releases
 
 # Support:
