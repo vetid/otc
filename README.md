@@ -1,4 +1,4 @@
-# OTC ![](https://img.shields.io/badge/CSGO-WINDOWS-green)
+# Onetap Crack Loader ![](https://img.shields.io/badge/CSGO-WINDOWS-green)
 
 **Latest Release:**
 * 21/06/2020 / https://github.com/vetid/otc/releases
