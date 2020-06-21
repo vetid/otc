@@ -4,7 +4,7 @@
 * 21/06/2020 / https://github.com/vetid/otc/releases
 
 # Support:
-* This [release](https://github.com/vetid/otc/releases "Release") of OTC will be updated every time that CSGO updates.
+* This [Release](https://github.com/vetid/otc/releases "Release") of OTC that will be updated every time that CSGO updates.
 * This repository is a repost of [0x000cb](https://github.com/0x000cb "0x000cb") OTC project.
 
 # Discord:
